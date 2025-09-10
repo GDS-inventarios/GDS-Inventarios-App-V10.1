@@ -1,0 +1,2 @@
+rootProject.name = "GDSInventariosApp"
+include ':app'
